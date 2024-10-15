@@ -1,0 +1,4 @@
+static_dir: "/static"
+
+database:
+    db_name: "sqlite:///diplom.db"
