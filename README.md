@@ -1,6 +1,6 @@
 # Base project structure and functional for simple rest project
 
-## Useage
+## Usage
 
 ### Clonse repository with 
 ```bash
