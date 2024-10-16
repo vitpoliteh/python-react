@@ -14,6 +14,18 @@ npm i
 ### Install server dependencies
 ```bash
 cd server
+python3 -m venv venv
+```
+than on Windows type in console 
+```bash
+.\venv\Scripts\activate
+```
+on Linux
+```bash
+. venv/bin/activate
+```
+and install dependecies
+```bash
 pip3 install -r requirements.txt
 ```
 
